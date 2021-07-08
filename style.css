@@ -1,0 +1,36 @@
+            .main-container {
+                background-color: #1d3557;
+                width: 80%;
+                margin: auto;
+                border-radius: 10px;
+                box-shadow: 10px 10px 5px #aaaaaa;
+                height: 95vh;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+            
+            .container {
+                background-color: #f1faee;
+                width: 80%;
+                margin: auto;
+                text-align: center;
+                border-radius: 10px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                font-size: 30px;
+                font-weight: 700;
+                padding: 20px;
+            }
+            
+            p {
+                color: #e63946;
+            }
+            
+            input[type="text"] {
+                font-size: 20px;
+                padding: 10px;
+            }
